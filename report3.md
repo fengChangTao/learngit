@@ -1,6 +1,7 @@
 #WEB应用软件开发实训 — 第3次作业 — Git 使用
 
-> learngit 项目网址为：
+> learngit 项目网址为：http://www.qgui.tk/learngit/report3
+> learngit 项目github地址：https://github.com/fengChangTao/learngit
 
 
 
